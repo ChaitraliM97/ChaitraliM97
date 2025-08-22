@@ -1,8 +1,8 @@
 # 👋 Hi there — I’m Chaitrali!
 
 🎓 **MSc Data Science Student**  
-📊 Passionate about **Analytics, Business Intelligence, and Cloud-Powered Solutions**  
-🎯 Focused on making data **Practical, Powerful & Purposeful**  
+📊 Passionate about **Analytics, Business Intelligence,** and **Cloud-Powered Solutions**  
+🎯 Focused on making data **Practical, Powerful** & **Purposeful**  
 <br>
 <br>
 
