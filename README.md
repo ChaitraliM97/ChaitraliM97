@@ -16,4 +16,4 @@
 
 <br>
 
-✨ **Clouds above, data below — insights everywhere.**
+✨ **Clouds above, data below — Insights everywhere.**
