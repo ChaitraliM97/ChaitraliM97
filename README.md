@@ -6,7 +6,6 @@
 📊 Passionate about **Analytics, Business Intelligence,** and **Cloud-Powered Solutions**  
 🎯 Focused on making data **Practical, Powerful** & **Purposeful**  
 <br>
-<br>
 
 💻 **Tech & Tools**  
 <hr width="150px" style="border:1px solid #ccc;" align="left">
