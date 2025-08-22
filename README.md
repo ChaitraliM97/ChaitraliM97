@@ -6,7 +6,7 @@
 <br>
 <br>
 
-## 💻 Tech & Tools
+** 💻 Tech & Tools **
 
 🐍 **Python** | 🐘 **SQL** | 📊 **Power BI** | 📈 **Excel**  
 ☁️ **AWS** | ❄️ **Snowflake**  
