@@ -7,10 +7,12 @@
 <br>
 
 💻 **Tech & Tools**  
-─ ─ ─ ─ ─ ─ ─ ─ ─ ─
+_____________________
+
 🐍 **Python** | 🐘 **SQL** | 📊 **Power BI** | 📈 **Excel**  
 ☁️ **AWS** | ❄️ **Snowflake**  
 🤖 **Machine Learning** | 🔍 **Data Analytics** | 🧠 **Business Intelligence (BI)**
+
 
 <br>
 
