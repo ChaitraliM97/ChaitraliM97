@@ -1,16 +1,33 @@
-## Hi there 👋
+👋 Hi there — I’m Chaitrali!
 
-<!--
-**ChaitraliM97/ChaitraliM97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Master’s student in Data Science
+📊 Passionate about Analytics, Business Intelligence, and Cloud-Powered Solutions
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔧 Tech & Tools
+
+🐍 Python | SQL | R
+
+📊 Power BI | Tableau | Excel
+
+☁️ Cloud & Data Platforms (AWS, Azure, GCP)
+
+🤖 Machine Learning | Data Analytics | BI
+
+🌱 Currently
+
+Pursuing my MSc in Data Science
+
+Learning & experimenting with Data Analytics + Business Intelligence
+
+Exploring Cloud platforms for data-driven solutions
+
+🚀 Goals
+
+Build impactful projects in Analytics & BI
+
+Contribute to open-source data science projects
+
+Grow as a Data Scientist & BI Professional
+
+✨ “Always learning, always building.”
