@@ -1,7 +1,7 @@
 # 👋 Hi there — I’m Chaitrali!  
 
 🎓 Master’s student in **Data Science**  
-📊 Passionate about **Analytics, Business Intelligence, and Cloud-Powered Solutions**  
+📊 Passionate about **Analytics, Business Intelligence,** and **Cloud-Powered Solutions**  
 🎯 Focused on making data **Practical, Powerful & Purposeful**  
 
 ---
@@ -15,4 +15,4 @@
 
 ---
 
-✨ *Clouds above, data below — insights everywhere.*  
+✨ **Clouds above, data below — insights everywhere.**  
