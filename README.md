@@ -4,6 +4,8 @@
 📊 Passionate about **Analytics, Business Intelligence, and Cloud-Powered Solutions**  
 🎯 Focused on making data **Practical, Powerful & Purposeful**  
 
+
+
 ---
 
 ## 🔧 Tech & Tools  
@@ -15,4 +17,4 @@
 
 ---
 
-✨ *Clouds above, data below — insights everywhere.*
+✨ **Clouds above, data below — insights everywhere.**
