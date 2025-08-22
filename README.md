@@ -6,12 +6,14 @@
 <br>
 <br>
 
-💻 **Tech & Tools**
+## 💻 Tech & Tools  
+─ ─ ─ ─ ─ ─ ─ ─ ─ ─
 
 🐍 **Python** | 🐘 **SQL** | 📊 **Power BI** | 📈 **Excel**  
 ☁️ **AWS** | ❄️ **Snowflake**  
 🤖 **Machine Learning** | 🔍 **Data Analytics** | 🧠 **Business Intelligence (BI)**
 
+
 <br>
 
-#✨ Clouds above, Data below — Insights everywhere.**
+# ✨ Clouds above, Data below — Insights everywhere. 
